@@ -26,22 +26,6 @@ A simple interactive solar system visualization built using modern OpenGL (3.3),
 - **Build System:** CMake
 - **Dependency Manager:** vcpkg
 
----
-
-## 📁 Project Structure
-
-solar-system/
-├── CMakeLists.txt
-├── src/
-│ └── main.cpp
-├── shaders/
-│ ├── vertex.glsl
-│ └── fragment.glsl
-├── libs/
-│ └── glad/
-│ ├── include/
-│ └── src/
-└── vcpkg/
 
 
 ---
